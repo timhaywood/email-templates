@@ -2,23 +2,30 @@
 
 ## 🚀 Output Files
 
-First Draft:
+### 768x1360:
 
-`/Volumes/yescreative/PRODUCTION/OPTYES1783_CSR_HYPE_REEL/04 Exports/WIP/OPTYES1783_CSR Hype Reel_v001.mov`
+ProRes `/Volumes/yescreative/PRODUCTION/YESR0849_iPhone_7_Eyelites/04 Exports/WIP/YESR0849 AWO209625 iPhone 7 G4 Front Portrait W768x1360px.mov`
+
+MP4 `/Volumes/yescreative/PRODUCTION/YESR0849_iPhone_7_Eyelites/04 Exports/WIP/mp4s/YESR0849 AWO209625 iPhone 7 G4 Front Portrait W768x1360px.mp4`
+
+### 1920x3240:
+
+ProRes `/Volumes/yescreative/PRODUCTION/YESR0849_iPhone_7_Eyelites/04 Exports/WIP/YESR0849 AWO209627 iPhone 7 G6 VW Murray St W1920x3240px.mov`
+
+MP4 `/Volumes/yescreative/PRODUCTION/YESR0849_iPhone_7_Eyelites/04 Exports/WIP/mp4s/YESR0849 AWO209627 iPhone 7 G6 VW Murray St W1920x3240px.mp4`
+
+### 2160x3840:
+
+ProRes `/Volumes/yescreative/PRODUCTION/YESR0849_iPhone_7_Eyelites/04 Exports/WIP/YESR0849 iPhone 7 George St Pillars W2160x3840px.mov`
+
+MP4 `/Volumes/yescreative/PRODUCTION/YESR0849_iPhone_7_Eyelites/04 Exports/WIP/mp4s/YESR0849 iPhone 7 George St Pillars W2160x3840px.mp4`
 
 ## ♻️ Changes
 
-- ✓ Animate all of the main text content and highlights
+- ✓ Duplicate existing animations and resize to match provided PSD's
 
-> In ended up being a bit longer than was anticipated due to the long script, with the current runtime at 3 minutes.
-
-## ✏️ To Do
-
-- Layout the rest of the graphics [Today and Monday morning]
-- Do rough animation of graphics (in and out) [Monday afternoon]
-- Final animation and internal changes [Tuesday]
-- External changes [Friday]
+Provided PSD: `/Volumes/yescreative/PRODUCTION/YESR0849_iPhone_7_Eyelites/03 Assets/Images`
 
 ## 📝 Project File
 
-`/Volumes/yescreative/PRODUCTION/OPTYES1783_CSR_HYPE_REEL/02 Projects/After Effects/OPTYES1783_CSR_Hype Reel_v01_CC2018_th.aep`
+`/Volumes/yescreative/PRODUCTION/YESR0849_iPhone_7_Eyelites/02 Projects/After Effects/YESR0849_iPhone_7_Eyelites_v02.aep`
