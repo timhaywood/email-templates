@@ -3,9 +3,11 @@
 ## 🚀 Output Files
 
 ProRes422
+
 `/Volumes/yescreative-1/PRODUCTION/OPTYES1971 Q1 FY20 Highlights_190719/04 Exports/WIP/OPTYES1971_Q1 FY20 Highlights_v07.mov`
 
 H264
+
 `/Volumes/yescreative-1/PRODUCTION/OPTYES1971 Q1 FY20 Highlights_190719/04 Exports/WIP/OPTYES1971_Q1 FY20 Highlights_v07.mp4`
 
 ## ♻️ Changes
@@ -23,7 +25,9 @@ H264
 ## 📝 Project File
 
 Animation
+
 `/Volumes/yescreative-1/PRODUCTION/OPTYES1971 Q1 FY20 Highlights_190719/02 Projects/After Effects/OPTYES1971_Q1 FY20 Highlights_Graphics_01.aep`
 
 Audio and Assembly
+
 `/Volumes/yescreative-1/PRODUCTION/OPTYES1971 Q1 FY20 Highlights_190719/02 Projects/Premiere Pro/OPTYES1971_Q1 FY20 Highlights_Assembly_02.prproj`
